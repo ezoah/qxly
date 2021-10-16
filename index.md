@@ -14,6 +14,9 @@
 徐嘉晞 俞昊泽
 ```
 
+### 关于我们
+班主任 *朱小栋*
+口号 *忘记了*
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ezoah/qxly/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
