@@ -4,10 +4,10 @@
 
 嘉兴高级中学文艺班✔
 
-### 关于我们
+### 我们
 
 ```
-蔡睿 曹冰
+蔡睿 顾井耒 朱宇可 曹冰 卢念含 王一鸣 金典 王怡嘉 史思虹 钟佳莹 沈橋牧 张奕丹 陈晓 李淑慧 王雯 赵俊超 潘嘉 杨颖 姚思茹 郑怡冉 徐嘉晞 俞昊泽
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
