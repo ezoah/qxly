@@ -4,12 +4,12 @@
 
 嘉兴高级中学文艺班✔
 
-### Markdown
+### 关于我们
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+
 蔡睿 曹冰
 ```
 
