@@ -1,4 +1,4 @@
-## 潜学立艺|嘉高高一艺术班
+## 潜学立艺
 
 You can use the [editor on GitHub](https://github.com/ezoah/qxly/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
