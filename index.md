@@ -7,7 +7,7 @@
 ### 关于我们
 
 ```
-### 蔡睿 曹冰
+蔡睿 曹冰
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
