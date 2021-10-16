@@ -6,10 +6,7 @@
 
 ### 关于我们
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-
+```
 蔡睿 曹冰
 ```
 
