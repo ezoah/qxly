@@ -49,3 +49,5 @@
 ## 友情链接
 
 [嘉兴高级中学](http://www.jxgjzx.net.cn/#)
+
+![嘉兴高级中学]（http://www.jxgjzx.net.cn/images/216/jglogo.png）
