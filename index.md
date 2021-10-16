@@ -52,4 +52,4 @@
 
 
 
-![嘉兴高级中学]（http://www.jxgjzx.net.cn/images/216/jglogo.png）
+![1]（http://www.jxgjzx.net.cn/images/216/jglogo.png）
