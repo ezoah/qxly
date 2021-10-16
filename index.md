@@ -1,7 +1,3 @@
-webrick:
-  headers:
-    My-Header: My-Value
-    My-Other-Header: My-Other-Value
 ## 潜学立艺
 
 ~~嘉兴高级中学艺术班~~
